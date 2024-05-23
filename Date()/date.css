@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Oldenburg&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  font-family: 'Oldenburg', display;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  height: 75vh;
+  flex-direction: column;
+  background: url(https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_c3ee01bd-a082-44ff-b184-e338a13b2ffa.jpg);
+  background-size: cover ;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+p{
+    font-size: 23px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+h1{
+    font-size: 46px;
+}
